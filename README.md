@@ -1,5 +1,4 @@
-# Exam #2: "Car Configurator"
-## Student: s326603 KULLOLLI KLAUS 
+# Project: "Car Configurator"
 
 ## React Client Application Routes
 
