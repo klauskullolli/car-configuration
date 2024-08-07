@@ -1,0 +1,40 @@
+.login-form {
+    background-color: rgba(94, 148, 184, 0.397);
+    padding: 70px;
+    border-radius: 10px;
+    width: 40%;
+    height: 50%;
+    margin: auto;
+    font-style: italic;
+    font-size: large;
+}
+
+.margin-bottom-login {
+    margin-left: 10%;
+}
+
+.alert-component {
+    width: 50%;
+    top: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.error-modal .modal-content {
+    background-color: #e9999f; /* Bootstrap danger alert background */
+    color: #721c24; /* Bootstrap danger alert text color */
+    border-color: #f5c6cb; /* Bootstrap danger alert border color */
+}
+
+
+.error-modal-header{
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.error-modal-body {
+    font-size: 1.1rem;
+    font-style: italic;
+    font-weight: bold;
+}
